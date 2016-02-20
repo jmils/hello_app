@@ -9,5 +9,6 @@ end
 
 def goodbye
   render text: "¡Peace out!"
+end
 
 end
